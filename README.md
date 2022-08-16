@@ -1,5 +1,5 @@
-## Welcome to "Hello World" with GitHub Actions
+## "Hello World" with GitHub Actions - GitHub Learning Lab
 
-This course will walk you through writing your first action and using it with a workflow file. 
+> Completed on: 08/16/2022
 
-**Ready to get started? Navigate to the first issue.**
+This course will walk you through writing your first action and using it with a workflow file.
